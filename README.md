@@ -28,6 +28,8 @@
 
 ## 😀 About me
 
+Hello, Hope everyone are doing well!
+I grew up in the '90s and have always been passionate about games, an interest that fueled my curiosity for technology and computing. Since then, I've been continuously seeking new knowledge in this field. In my free time, I serve as the coordinator of the youth department at the Nipo-Brazilian Institute of Campinas, where we organize events and plan artistic and cultural activities. I'm not of Japanese descent, but I strongly identify with the values of Japanese culture and try to absorb as much as I can from these learnings.
 
 ### Highlights
 
