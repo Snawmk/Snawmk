@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/guilherme-marcelino-21681860"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/gui.mk/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.facebook.com/gui.aumarcelino"><img src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/channel/UCvKwsgLVjKJWofRZz_kGYyg"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/channel/UCvKwsgLVjKJWofRZz_kGYyg"><img src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   <a href="https://wa.me/5519983199493"><img src="https://img.shields.io/badge/whatsapp-%8A2BE2.svg?&style=for-the-badge&logo=whatsapp&logoColor=darkgreen" height=25></a>
 </p>
 
@@ -24,6 +24,26 @@
 🚀 Japan International Exchange at JICA in 2023
 
 ⛩️ Japanese Culture Lover
+
+## 😀 About me
+
+
+### Highlights
+
+
+## ⚙️ Technologies and Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+
+## ✍️ Blog and Writing
+
+
+## Repositories
+
+The repositories shared here is public to use, share and evaluate and are meant to be opensource projects for study and practice
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snawmk&theme=dark" />
 
 <!--
 **Snawmk/Snawmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
