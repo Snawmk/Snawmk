@@ -1,10 +1,7 @@
 <img src="https://github.com/Snawmk/Snawmk/blob/main/Guilherme%20Marcelino%20Banner.png?raw=true" alt="Gui MK GitHub README header image">
 
 ## 👋 Hi there, I'm Guilherme Marcelino! 
-<p>
-  <a href="https://www.linkedin.com/in/guilherme-marcelino-21681860">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
+<p><a href="https://www.linkedin.com/in/guilherme-marcelino-21681860"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/gui.mk/"> 
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
