@@ -1,8 +1,9 @@
 <img src="https://github.com/Snawmk/Snawmk/blob/main/Guilherme%20Marcelino%20Banner.png?raw=true" alt="Gui MK GitHub README header image">
 
-## 👋 Hi there, I'm Guilherme Marcelino! 
+## 👋 Hi, I'm Guilherme Marcelino! 
 <p>
   <a href="https://www.linkedin.com/in/guilherme-marcelino-21681860"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:gui.aumarcelino@gmail.com"><img src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail" height=25></a>
   <a href="https://www.instagram.com/gui.mk/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.facebook.com/gui.aumarcelino"><img src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/channel/UCvKwsgLVjKJWofRZz_kGYyg"><img src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
@@ -21,7 +22,7 @@
 
 ☁️ Studing for AWS Cloud Computing Certifications
 
-🚀 Japan International Exchange at JICA in 2023
+✈️ Japan International Exchange with Gifu City in 2019 and JICA in 2023
 
 ⛩️ Japanese Culture Lover
 
