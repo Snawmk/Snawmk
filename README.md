@@ -1,3 +1,5 @@
+<img src="https://github.com/Snawmk/Snawmk/blob/main/Guilherme%20Marcelino%20Banner.png?raw=true" alt="Gui MK GitHub README header image">
+
 ## Hi there 👋
 
 <!--
