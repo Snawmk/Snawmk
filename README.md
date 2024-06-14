@@ -48,21 +48,22 @@ Off-Work:
 
 ## ⚙️ Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=green)
 
 
 ## 📰 Articles
 
 <details>
   <summary>JICA Tsukuba Facebook Post about post training activities</summary>
-  <a href="https://www.facebook.com/gui.aumarcelino/posts/pfbid02x3asBhJK3fUXxs1RSn6BNnxsrfL1Zuzey31QKXB4SBb3JkeSs3UGNhVkCcSV4ZeWl" target="_blank"><img src="https://github.com/Snawmk/Snawmk/blob/main/fb.png?raw=true" alt="JICA Facebook"></a>
+  <a href="https://www.facebook.com/gui.aumarcelino/posts/pfbid02x3asBhJK3fUXxs1RSn6BNnxsrfL1Zuzey31QKXB4SBb3JkeSs3UGNhVkCcSV4ZeWl" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Snawmk/Snawmk/blob/main/fb.png?raw=true" alt="JICA Facebook"></a>
+
 </details>
 
 <details>
   <summary>Brazil-Japan Cultural Institute of Campinas journal's article about the cultural Exchange with JICA</summary>
-  <a href="https://drive.google.com/file/d/1JWG8TolYMVabOwbMd7Xvq18f6Uhe_TWA/view?pli=1" target="_blank"><img src="https://github.com/Snawmk/Snawmk/blob/main/nipoagora.png?raw=true" alt="'Nipo Agora' journal May 2024"></a>
+  <a href="https://drive.google.com/file/d/1JWG8TolYMVabOwbMd7Xvq18f6Uhe_TWA/view?pli=1" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Snawmk/Snawmk/blob/main/nipoagora.png?raw=true" alt="'Nipo Agora' journal May 2024"></a>
 </details>
-
 
 
 ## Repositories
