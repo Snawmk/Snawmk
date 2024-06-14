@@ -51,7 +51,11 @@ Off-Work:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
-## ✍️ Blog and Writing
+## 📰 Articles
+
+<img src="https://github.com/Snawmk/Snawmk/blob/main/fb.png?raw=true" alt="JICA Facebook">
+
+<img src="https://github.com/Snawmk/Snawmk/blob/main/nipoagora.png?raw=true" alt="'Nipo Agora' journal May 2024">
 
 
 ## Repositories
