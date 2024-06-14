@@ -53,14 +53,14 @@ Off-Work:
 
 ## 📰 Articles
 
-<details open>
+<details>
   <summary>JICA Tsukuba Facebook Post about post training activities</summary>
-  <a href="https://www.facebook.com/gui.aumarcelino/posts/pfbid02x3asBhJK3fUXxs1RSn6BNnxsrfL1Zuzey31QKXB4SBb3JkeSs3UGNhVkCcSV4ZeWl"><img src="https://github.com/Snawmk/Snawmk/blob/main/fb.png?raw=true" alt="JICA Facebook"></a>
+  <a href="https://www.facebook.com/gui.aumarcelino/posts/pfbid02x3asBhJK3fUXxs1RSn6BNnxsrfL1Zuzey31QKXB4SBb3JkeSs3UGNhVkCcSV4ZeWl" target="_blank"><img src="https://github.com/Snawmk/Snawmk/blob/main/fb.png?raw=true" alt="JICA Facebook"></a>
 </details>
 
-<details open>
+<details>
   <summary>Brazil-Japan Cultural Institute of Campinas journal's article about the cultural Exchange with JICA</summary>
-  <a href="https://drive.google.com/file/d/1JWG8TolYMVabOwbMd7Xvq18f6Uhe_TWA/view?pli=1"><img src="https://github.com/Snawmk/Snawmk/blob/main/nipoagora.png?raw=true" alt="'Nipo Agora' journal May 2024"></a>
+  <a href="https://drive.google.com/file/d/1JWG8TolYMVabOwbMd7Xvq18f6Uhe_TWA/view?pli=1" target="_blank"><img src="https://github.com/Snawmk/Snawmk/blob/main/nipoagora.png?raw=true" alt="'Nipo Agora' journal May 2024"></a>
 </details>
 
 
