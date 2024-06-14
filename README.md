@@ -50,6 +50,17 @@ Off-Work:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=green)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=darkpurple)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Security-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=darkred)
+![](https://img.shields.io/badge/Security-IBM%QRADAR-informational?style=flat&&color=darkred)
+![](https://img.shields.io/badge/Security-CrowdStrike-informational?style=flat&&color=darkred)
+![](https://img.shields.io/badge/Security-Trellix-informational?style=flat&logo=mcafee&logoColor=white&color=darkred)
+![](https://img.shields.io/badge/Security-Nessus-informational?style=flat&color=darkred)
+
 
 
 ## 📰 Articles
