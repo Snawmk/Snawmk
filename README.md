@@ -81,7 +81,7 @@ Off-Work:
 The repositories shared here is public to use, share and evaluate and are meant to be opensource projects for study and practice
 
 <details>
- <summary>Juniakai's Google Sheets Python automation </summary>
+ <summary>###Juniakai's Google Sheets Python automation </summary>
   <img src="https://github.com/Snawmk/Juniakai/blob/main/juniakai.png?raw=true" alt="Juniakai Group">
   
   Juniakai is the youth group of the Youth Department at the Japan-Brazil Institute of Campinas.
